@@ -1,0 +1,9 @@
+edu\aspire\config\AspireWebAppInitializer.class
+edu\aspire\model\CustomerDao.class
+edu\aspire\model\CustomerDaoImpl.class
+edu\aspire\test\Application.class
+edu\aspire\config\AspireRootConfig.class
+edu\aspire\view\vo\Customer.class
+edu\aspire\services\CustomerService.class
+edu\aspire\config\AspireWebConfig.class
+edu\aspire\controllers\CustomerController.class

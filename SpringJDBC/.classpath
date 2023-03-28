@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-aop-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-beans-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-context-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-core-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-expression-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-jdbc-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-test-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/Spring Jars/spring-tx-4.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/commons-pool.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SPRING MICROSERVICES/Softwares/jars/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
